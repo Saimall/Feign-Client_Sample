@@ -1,0 +1,5 @@
+com\example\productAPI_04_10_2024\repository\ProductRepo.class
+com\example\productAPI_04_10_2024\ProductApi04102024Application.class
+com\example\productAPI_04_10_2024\service\Productservice.class
+com\example\productAPI_04_10_2024\model\ProductModel.class
+com\example\productAPI_04_10_2024\controllers\Product.class
